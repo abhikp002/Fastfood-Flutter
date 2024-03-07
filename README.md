@@ -8,7 +8,7 @@ Flutter Food ordering app UI complete
 
 ## ![Buy me a coffee ](https://www.buymeacoffee.com/abhikp002)
 
-![bmc_qr](https://github.com/abhikp002/fastfood/assets/74450997/df2df996-8bd2-452d-899c-8516dfc577ae)
+![bmc_qr](https://github.com/abhikp002/fastfood/assets/74450997/df2df996-8bd2-452d-899c-8516dfc577ae =200x200)
 
 
 
