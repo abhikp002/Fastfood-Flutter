@@ -6,10 +6,9 @@ Flutter Food ordering app UI complete
 ## Screenshots
 ![fullappui](https://github.com/abhikp002/fastfood/assets/74450997/48c355e2-1e51-4bc4-bc60-02a614224fdb)
 
-## ![Buy me a coffee ](https://www.buymeacoffee.com/abhikp002)
+## [Buy me a coffee ](https://www.buymeacoffee.com/abhikp002)
 
-![bmc_qr](https://github.com/abhikp002/fastfood/assets/74450997/df2df996-8bd2-452d-899c-8516dfc577ae =200x200)
-
+![bmc](https://github.com/abhikp002/fastfood/assets/74450997/c82735c5-c745-40c3-8a6f-3d2c4311b4c2)
 
 
 This project is a starting point for a Flutter application.
